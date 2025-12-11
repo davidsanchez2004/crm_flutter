@@ -1,0 +1,54 @@
+# Flutter
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+pubspec.lock
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*.swn
+*.sublime-project
+*.sublime-workspace
+*.swn
+.DS_Store
+
+# Android
+android/.gradle
+android/gradle_wrapper.jar
+android/gradlew.bat
+android/gradlew
+android/local.properties
+android/captures/
+android/.gradle/
+android/**/GeneratedPluginRegistrant.java
+
+# iOS
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Flutter/ephemeral/
+ios/Pods/
+ios/Podfile.lock
+Podfile.lock
+ios/**/*.pbxproj
+ios/**/*.pbxproj/
+
+# Web
+web/
+.web/
+
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.pyo
+.python-version
+.env
+.env.local
